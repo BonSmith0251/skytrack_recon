@@ -1,0 +1,6693 @@
+{
+ "textures": [
+  {
+   "game": "Data/Effects/CloudElem/Cloud.dds",
+   "asset": "Assets/SkyTrack/Textures/Effects/CloudElem/Cloud.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Effects/Dusts/Dusts.dds",
+   "asset": "Assets/SkyTrack/Textures/Effects/Dusts/Dusts.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Effects/Flames/FlameWhite.jpg",
+   "asset": "Assets/SkyTrack/Textures/Effects/Flames/FlameWhite.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Effects/Sparks/Sparks.jpg",
+   "asset": "Assets/SkyTrack/Textures/Effects/Sparks/Sparks.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Interface/Cups/Cup1.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Cups/Cup1.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Cups/Cup2.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Cups/Cup2.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Cups/Cup3.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Cups/Cup3.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Cups/GoldenCup.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Cups/GoldenCup.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Cursor/Cursor.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Cursor/Cursor.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Fonts/Arial.18/Main.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Fonts/Arial.18/Main.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Fonts/Game 01/Main.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Fonts/Game 01/Main.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Fonts/Game 02/Main.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Fonts/Game 02/Main.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Fonts/Menu 01/Main.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Fonts/Menu 01/Main.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/HUD/Icons/Icons.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/HUD/Icons/Icons.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/BorderHider.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/BorderHider.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/LoadingScreen.jpg",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/LoadingScreen.jpg",
+   "alpha": false,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/Logo_Bullet.jpg",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/Logo_Bullet.jpg",
+   "alpha": false,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/Logo_EAGroup.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/Logo_EAGroup.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/Logo_EAPresents.jpg",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/Logo_EAPresents.jpg",
+   "alpha": false,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/Logo_LLC.jpg",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/Logo_LLC.jpg",
+   "alpha": false,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/RaceBack.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/RaceBack.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/SoftRect.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/SoftRect.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Interface/Menu_Main/Title.dds",
+   "asset": "Assets/SkyTrack/Textures/Interface/Menu_Main/Title.png",
+   "alpha": true,
+   "ui": true
+  },
+  {
+   "game": "Data/Misc/AD/InfoHider.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/AD/InfoHider.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/AD/InfoScreens01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/AD/InfoScreens01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/AD/InfoScreens02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/AD/InfoScreens02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/AD/InfoTitle.dds",
+   "asset": "Assets/SkyTrack/Textures/Misc/AD/InfoTitle.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/Black.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/Black.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/LightMap.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/LightMap.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/StaticEnvMap.dds",
+   "asset": "Assets/SkyTrack/Textures/Misc/StaticEnvMap.png",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Misc/White.jpg",
+   "asset": "Assets/SkyTrack/Textures/Misc/White.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds03.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds03.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds04.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds04.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds05.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds05.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds06.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds06.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds07.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds07.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds08.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds08.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds09.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds09.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Clouds10.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Clouds10.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/CloudsPlane.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/CloudsPlane.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Horizon.dds",
+   "asset": "Assets/SkyTrack/Textures/Sky/Horizon.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/Sun.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/Sun.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Sky/SunSphere.jpg",
+   "asset": "Assets/SkyTrack/Textures/Sky/SunSphere.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_03.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_03.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_04.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_04.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_05.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_05.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Boxes/Main01_06.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_06.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Decors/Signs/Main01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Decors/Signs/Main01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/InfoScreen/Main.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/InfoScreen/Main.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/InfoScreen/MainBump.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/InfoScreen/MainBump.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Bump01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Bump02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Bump02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main02.dds",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main02.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM03.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM04.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM05.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM06.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM07.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM08.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM09.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM10.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_LM11.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Platforms/Main_Small.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Platforms/Main_Small.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/LFrame.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/LFrame.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/LFrameBump.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/LFrameBump.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/LFrameLMap1.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/LFrameLMap1.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/LFrameLMap2.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/LFrameLMap2.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/Main.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/Main.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/Start.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/Start.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/StartBump.jpg",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/StartBump.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Static/Structures/Start_SI.dds",
+   "asset": "Assets/SkyTrack/Textures/Static/Structures/Start_SI.png",
+   "alpha": true,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal01.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal01.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal02.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal02.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal03.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal03.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal04.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal04.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal05.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal05.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal06.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal06.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal07.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal07.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal08.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal08.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal09.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal09.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal10.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal10.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Decal11.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Decal11.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Elements.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Elements.jpg",
+   "alpha": false,
+   "ui": false
+  },
+  {
+   "game": "Data/Vehicles/Wheels.jpg",
+   "asset": "Assets/SkyTrack/Textures/Vehicles/Wheels.jpg",
+   "alpha": false,
+   "ui": false
+  }
+ ],
+ "audio": [
+  {
+   "game": "Data/Audio/Add/App01.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/App01.mp3",
+   "music": false,
+   "duration": 6.87
+  },
+  {
+   "game": "Data/Audio/Add/App02.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/App02.mp3",
+   "music": false,
+   "duration": 8.23
+  },
+  {
+   "game": "Data/Audio/Add/App03.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/App03.mp3",
+   "music": false,
+   "duration": 7.38
+  },
+  {
+   "game": "Data/Audio/Add/App04.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/App04.mp3",
+   "music": false,
+   "duration": 9.8
+  },
+  {
+   "game": "Data/Audio/Add/App05.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/App05.mp3",
+   "music": false,
+   "duration": 7.73
+  },
+  {
+   "game": "Data/Audio/Add/Foo01.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Foo01.mp3",
+   "music": false,
+   "duration": 2.34
+  },
+  {
+   "game": "Data/Audio/Add/Foo02.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Foo02.mp3",
+   "music": false,
+   "duration": 13.62
+  },
+  {
+   "game": "Data/Audio/Add/Foo03.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Foo03.mp3",
+   "music": false,
+   "duration": 3.06
+  },
+  {
+   "game": "Data/Audio/Add/Foo04.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Foo04.mp3",
+   "music": false,
+   "duration": 3.4
+  },
+  {
+   "game": "Data/Audio/Add/Foo05.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Foo05.mp3",
+   "music": false,
+   "duration": 11.28
+  },
+  {
+   "game": "Data/Audio/Add/Srn01.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Srn01.wav",
+   "music": false,
+   "duration": 0.66
+  },
+  {
+   "game": "Data/Audio/Add/Srn02.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Srn02.wav",
+   "music": false,
+   "duration": 1.48
+  },
+  {
+   "game": "Data/Audio/Add/Yea01.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Yea01.mp3",
+   "music": false,
+   "duration": 6.2
+  },
+  {
+   "game": "Data/Audio/Add/Yea02.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Yea02.mp3",
+   "music": false,
+   "duration": 10.15
+  },
+  {
+   "game": "Data/Audio/Add/Yea03.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Yea03.mp3",
+   "music": false,
+   "duration": 5.49
+  },
+  {
+   "game": "Data/Audio/Add/Yea04.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Yea04.mp3",
+   "music": false,
+   "duration": 2.48
+  },
+  {
+   "game": "Data/Audio/Add/Yea05.wav",
+   "asset": "Assets/SkyTrack/Audio/Add/Yea05.mp3",
+   "music": false,
+   "duration": 6.4
+  },
+  {
+   "game": "Data/Audio/Bt/Bt_In.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/Bt_In.wav",
+   "music": false,
+   "duration": 0.06
+  },
+  {
+   "game": "Data/Audio/Bt/Bt_Pr.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/Bt_Pr.wav",
+   "music": false,
+   "duration": 0.08
+  },
+  {
+   "game": "Data/Audio/Bt/Bt_Upgr.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/Bt_Upgr.mp3",
+   "music": false,
+   "duration": 1.53
+  },
+  {
+   "game": "Data/Audio/Bt/Err.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/Err.wav",
+   "music": false,
+   "duration": 0.6
+  },
+  {
+   "game": "Data/Audio/Bt/Mny.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/Mny.wav",
+   "music": false,
+   "duration": 3.06
+  },
+  {
+   "game": "Data/Audio/Bt/RRS1.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/RRS1.wav",
+   "music": false,
+   "duration": 0.48
+  },
+  {
+   "game": "Data/Audio/Bt/RRS2.wav",
+   "asset": "Assets/SkyTrack/Audio/Bt/RRS2.wav",
+   "music": false,
+   "duration": 0.48
+  },
+  {
+   "game": "Data/Audio/En01.wav",
+   "asset": "Assets/SkyTrack/Audio/En01.wav",
+   "music": false,
+   "duration": 2.93
+  },
+  {
+   "game": "Data/Audio/En02.wav",
+   "asset": "Assets/SkyTrack/Audio/En02.wav",
+   "music": false,
+   "duration": 3.0
+  },
+  {
+   "game": "Data/Audio/En03.wav",
+   "asset": "Assets/SkyTrack/Audio/En03.wav",
+   "music": false,
+   "duration": 4.21
+  },
+  {
+   "game": "Data/Audio/En04.wav",
+   "asset": "Assets/SkyTrack/Audio/En04.wav",
+   "music": false,
+   "duration": 4.56
+  },
+  {
+   "game": "Data/Audio/En05.wav",
+   "asset": "Assets/SkyTrack/Audio/En05.wav",
+   "music": false,
+   "duration": 8.06
+  },
+  {
+   "game": "Data/Audio/Imp01.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp01.mp3",
+   "music": false,
+   "duration": 0.89
+  },
+  {
+   "game": "Data/Audio/Imp02.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp02.mp3",
+   "music": false,
+   "duration": 2.04
+  },
+  {
+   "game": "Data/Audio/Imp03.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp03.mp3",
+   "music": false,
+   "duration": 1.5
+  },
+  {
+   "game": "Data/Audio/Imp04.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp04.mp3",
+   "music": false,
+   "duration": 1.23
+  },
+  {
+   "game": "Data/Audio/Imp05.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp05.mp3",
+   "music": false,
+   "duration": 0.94
+  },
+  {
+   "game": "Data/Audio/Imp06.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp06.mp3",
+   "music": false,
+   "duration": 2.05
+  },
+  {
+   "game": "Data/Audio/Imp07.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp07.mp3",
+   "music": false,
+   "duration": 1.77
+  },
+  {
+   "game": "Data/Audio/Imp08.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp08.mp3",
+   "music": false,
+   "duration": 1.24
+  },
+  {
+   "game": "Data/Audio/Imp09.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp09.mp3",
+   "music": false,
+   "duration": 1.13
+  },
+  {
+   "game": "Data/Audio/Imp10.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp10.mp3",
+   "music": false,
+   "duration": 0.96
+  },
+  {
+   "game": "Data/Audio/Imp11.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp11.mp3",
+   "music": false,
+   "duration": 1.5
+  },
+  {
+   "game": "Data/Audio/Imp12.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp12.mp3",
+   "music": false,
+   "duration": 0.89
+  },
+  {
+   "game": "Data/Audio/Imp13.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp13.mp3",
+   "music": false,
+   "duration": 0.85
+  },
+  {
+   "game": "Data/Audio/Imp14.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp14.mp3",
+   "music": false,
+   "duration": 0.64
+  },
+  {
+   "game": "Data/Audio/Imp15.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp15.mp3",
+   "music": false,
+   "duration": 0.83
+  },
+  {
+   "game": "Data/Audio/Imp16.wav",
+   "asset": "Assets/SkyTrack/Audio/Imp16.mp3",
+   "music": false,
+   "duration": 0.85
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR01.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR01.mp3",
+   "music": true,
+   "duration": 109.71
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR02.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR02.mp3",
+   "music": true,
+   "duration": 123.43
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR03.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR03.mp3",
+   "music": true,
+   "duration": 102.86
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR04.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR04.mp3",
+   "music": true,
+   "duration": 96.15
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR05.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR05.mp3",
+   "music": true,
+   "duration": 78.29
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR06.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR06.mp3",
+   "music": true,
+   "duration": 82.46
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR07.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR07.mp3",
+   "music": true,
+   "duration": 88.21
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR08.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR08.mp3",
+   "music": true,
+   "duration": 116.56
+  },
+  {
+   "game": "Data/Audio/MusTrks/TrR09.wav",
+   "asset": "Assets/SkyTrack/Audio/MusTrks/TrR09.mp3",
+   "music": true,
+   "duration": 117.68
+  },
+  {
+   "game": "Data/Audio/WhS01.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS01.mp3",
+   "music": false,
+   "duration": 2.17
+  },
+  {
+   "game": "Data/Audio/WhS02.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS02.mp3",
+   "music": false,
+   "duration": 3.02
+  },
+  {
+   "game": "Data/Audio/WhS03.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS03.mp3",
+   "music": false,
+   "duration": 2.02
+  },
+  {
+   "game": "Data/Audio/WhS04.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS04.mp3",
+   "music": false,
+   "duration": 3.71
+  },
+  {
+   "game": "Data/Audio/WhS05.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS05.mp3",
+   "music": false,
+   "duration": 1.55
+  },
+  {
+   "game": "Data/Audio/WhS06.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS06.mp3",
+   "music": false,
+   "duration": 3.27
+  },
+  {
+   "game": "Data/Audio/WhS07.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS07.mp3",
+   "music": false,
+   "duration": 0.96
+  },
+  {
+   "game": "Data/Audio/WhS08.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS08.mp3",
+   "music": false,
+   "duration": 2.4
+  },
+  {
+   "game": "Data/Audio/WhS09.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS09.mp3",
+   "music": false,
+   "duration": 3.0
+  },
+  {
+   "game": "Data/Audio/WhS10.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS10.mp3",
+   "music": false,
+   "duration": 2.0
+  },
+  {
+   "game": "Data/Audio/WhS11.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS11.mp3",
+   "music": false,
+   "duration": 3.45
+  },
+  {
+   "game": "Data/Audio/WhS12.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS12.mp3",
+   "music": false,
+   "duration": 3.12
+  },
+  {
+   "game": "Data/Audio/WhS13.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS13.mp3",
+   "music": false,
+   "duration": 3.7
+  },
+  {
+   "game": "Data/Audio/WhS14.wav",
+   "asset": "Assets/SkyTrack/Audio/WhS14.mp3",
+   "music": false,
+   "duration": 3.05
+  }
+ ],
+ "materials": [
+  {
+   "shader": "unlit",
+   "texture": "Assets/SkyTrack/Textures/Sky/Clouds01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0,
+   "key": "Sky_Sky_Clouds01"
+  },
+  {
+   "shader": "additive",
+   "texture": "Assets/SkyTrack/Textures/Sky/CloudsPlane.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0,
+   "key": "Sky_Sky_CloudsPlane"
+  },
+  {
+   "shader": "sky_haze",
+   "texture": "Assets/SkyTrack/Textures/Sky/Horizon.png",
+   "color": [
+    0.78,
+    0.84,
+    0.92,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0,
+   "key": "Sky_Sky_Horizon"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_01"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Signs/Main01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Signs_Main01"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Signs/Main01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Signs_Main01"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/InfoScreen/Main.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "InfoScreen_Main"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Misc/AD/InfoScreens01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_AD_InfoScreens01"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Platforms/Main01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Platforms_Main01"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Static/Platforms/Main01.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Platforms_Main01"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/LFrame.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Structures_LFrame"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/LFrame.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Structures_LFrame"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/Main.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Structures_Main"
+  },
+  {
+   "shader": "glass",
+   "texture": "",
+   "color": [
+    0.05,
+    0.07,
+    0.1,
+    0.55
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0.9,
+   "smoothness": 0.95,
+   "key": "Glass"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/Main.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Structures_Main"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/Start.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Structures_Start"
+  },
+  {
+   "shader": "additive",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/Start_SI.png",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Glow_Structures_Start_SI"
+  },
+  {
+   "shader": "chrome",
+   "texture": "Assets/SkyTrack/Textures/Static/Structures/Start.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0.8,
+   "smoothness": 0.75,
+   "key": "Chrome_Structures_Start"
+  },
+  {
+   "shader": "vehicle_paint",
+   "texture": "Assets/SkyTrack/Textures/Vehicles/Decal01.jpg",
+   "color": [
+    0.75,
+    0.08,
+    0.05,
+    1
+   ],
+   "emission": [
+    0.92,
+    0.92,
+    0.9
+   ],
+   "metallic": 0.35,
+   "smoothness": 0.7,
+   "key": "VehiclePaint_Vehicles_Decal01"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Vehicles/Elements.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Vehicles_Elements"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Vehicles/Elements.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Vehicles_Elements"
+  },
+  {
+   "shader": "chrome",
+   "texture": "",
+   "color": [
+    0.9,
+    0.9,
+    0.92,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 1.0,
+   "smoothness": 0.85,
+   "key": "Chrome"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Vehicles/Wheels.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Vehicles_Wheels"
+  },
+  {
+   "shader": "chrome",
+   "texture": "Assets/SkyTrack/Textures/Vehicles/Wheels.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0.8,
+   "smoothness": 0.75,
+   "key": "Chrome_Vehicles_Wheels"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Platforms/Main02.png",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Platforms_Main02"
+  },
+  {
+   "shader": "emissive",
+   "texture": "Assets/SkyTrack/Textures/Static/Platforms/Main02.png",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    1,
+    1,
+    1
+   ],
+   "metallic": 0,
+   "smoothness": 0.2,
+   "key": "Emissive_Platforms_Main02"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_02.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_02"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_03.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_03"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_04.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_04"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_05.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_05"
+  },
+  {
+   "shader": "standard",
+   "texture": "Assets/SkyTrack/Textures/Static/Decors/Boxes/Main01_06.jpg",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "emission": [
+    0,
+    0,
+    0
+   ],
+   "metallic": 0,
+   "smoothness": 0.25,
+   "key": "Boxes_Main01_06"
+  }
+ ],
+ "models": [
+  {
+   "name": "SkyDome",
+   "kind": "sky",
+   "category": "Sky",
+   "gamePath": "Data/Sky/Main.msh",
+   "definitionPath": "Data/Sky/Main.obj",
+   "mesh": "Meshes/Sky_Main.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Sky_Sky_Clouds01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Sky_Sky_CloudsPlane",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 2,
+     "role": "main_layer3",
+     "name": "slot02_main_layer3",
+     "helper": false,
+     "material": "Sky_Sky_Horizon",
+     "collider": "",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object Class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object Type",
+     "value": "GTYPE_NOTDEFINED"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Sky/Main.msh"
+    },
+    {
+     "key": "Main Texture",
+     "value": "Data/Sky/SunSphere.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Sky/Horizon.dds"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [],
+   "bump": ""
+  },
+  {
+   "name": "Boxes_Main01",
+   "kind": "decor",
+   "category": "Decors",
+   "gamePath": "Data/Static/Decors/Boxes/Main01.msh",
+   "definitionPath": "Data/Static/Decors/Boxes/Main01.obj",
+   "mesh": "Meshes/Static_Decors_Boxes_Main01.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Boxes_Main01_01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 15,
+     "role": "shadow_volume",
+     "name": "slot15_shadow_volume",
+     "helper": true,
+     "material": "",
+     "collider": "skip",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    },
+    {
+     "slot": 19,
+     "role": "collision_boxes",
+     "name": "slot19_collision_boxes",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object Class",
+     "value": "GCLASS_DYNAMIC"
+    },
+    {
+     "key": "Object Type",
+     "value": "GTYPE_DECORS"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Decors/Boxes/Main01.msh"
+    },
+    {
+     "key": "Main Texture",
+     "value": "Data/Static/Decors/Boxes/Main01_%6.bmp"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "20"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": ""
+  },
+  {
+   "name": "Signs_Main01",
+   "kind": "decor",
+   "category": "Decors",
+   "gamePath": "Data/Static/Decors/Signs/Main01.msh",
+   "definitionPath": "Data/Static/Decors/Signs/Main01.obj",
+   "mesh": "Meshes/Static_Decors_Signs_Main01.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Signs_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Emissive_Signs_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 15,
+     "role": "shadow_volume",
+     "name": "slot15_shadow_volume",
+     "helper": true,
+     "material": "",
+     "collider": "skip",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    },
+    {
+     "slot": 19,
+     "role": "collision_boxes",
+     "name": "slot19_collision_boxes",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object Class",
+     "value": "GCLASS_DYNAMIC"
+    },
+    {
+     "key": "Object Type",
+     "value": "GTYPE_DECORS"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Decors/Signs/Main01.msh"
+    },
+    {
+     "key": "Main Texture",
+     "value": "Data/Static/Decors/Signs/Main01.bmp"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "10"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Static/Decors/Signs/Main01.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "1.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,000,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": ""
+  },
+  {
+   "name": "Main_L",
+   "kind": "structure",
+   "category": "InfoScreen",
+   "gamePath": "Data/Static/InfoScreen/Main_L.msh",
+   "definitionPath": "Data/Static/InfoScreen/Main_L.obj",
+   "mesh": "Meshes/Static_InfoScreen_Main_L.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "InfoScreen_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Emissive_AD_InfoScreens01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/InfoScreen/Main_L.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/InfoScreen/Main.bmp"
+    },
+    {
+     "key": "Shader Texture",
+     "value": "Data/Static/InfoScreen/MainBump.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "(INFOSCREEN)    Data/Misc/Black.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "1.0"
+      },
+      {
+       "key": "Color",
+       "value": "200,100,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": "Assets/SkyTrack/Textures/Static/InfoScreen/MainBump.jpg"
+  },
+  {
+   "name": "Main_R",
+   "kind": "structure",
+   "category": "InfoScreen",
+   "gamePath": "Data/Static/InfoScreen/Main_R.msh",
+   "definitionPath": "Data/Static/InfoScreen/Main_R.obj",
+   "mesh": "Meshes/Static_InfoScreen_Main_R.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "InfoScreen_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Emissive_AD_InfoScreens01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/InfoScreen/Main_R.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/InfoScreen/Main.bmp"
+    },
+    {
+     "key": "Shader Texture",
+     "value": "Data/Static/InfoScreen/MainBump.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "(INFOSCREEN)    Data/Misc/Black.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "1.0"
+      },
+      {
+       "key": "Color",
+       "value": "200,100,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": "Assets/SkyTrack/Textures/Static/InfoScreen/MainBump.jpg"
+  },
+  {
+   "name": "A1_360",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/A1_360.msh",
+   "definitionPath": "Data/Static/Platforms/A1_360.obj",
+   "mesh": "Meshes/Static_Platforms_A1_360.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/A1_360.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "A2_360",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/A2_360.msh",
+   "definitionPath": "Data/Static/Platforms/A2_360.obj",
+   "mesh": "Meshes/Static_Platforms_A2_360.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/A2_360.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "AD_020",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/AD_020.msh",
+   "definitionPath": "Data/Static/Platforms/AD_020.obj",
+   "mesh": "Meshes/Static_Platforms_AD_020.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/AD_020.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "AH_000",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/AH_000.msh",
+   "definitionPath": "Data/Static/Platforms/AH_000.obj",
+   "mesh": "Meshes/Static_Platforms_AH_000.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/AH_000.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "AH_020",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/AH_020.msh",
+   "definitionPath": "Data/Static/Platforms/AH_020.obj",
+   "mesh": "Meshes/Static_Platforms_AH_020.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/AH_020.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "AU_020",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/AU_020.msh",
+   "definitionPath": "Data/Static/Platforms/AU_020.obj",
+   "mesh": "Meshes/Static_Platforms_AU_020.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/AU_020.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LD_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LD_090.msh",
+   "definitionPath": "Data/Static/Platforms/LD_090.obj",
+   "mesh": "Meshes/Static_Platforms_LD_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LD_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LD_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LD_180.msh",
+   "definitionPath": "Data/Static/Platforms/LD_180.obj",
+   "mesh": "Meshes/Static_Platforms_LD_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LD_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LH_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LH_090.msh",
+   "definitionPath": "Data/Static/Platforms/LH_090.obj",
+   "mesh": "Meshes/Static_Platforms_LH_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LH_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LH_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LH_180.msh",
+   "definitionPath": "Data/Static/Platforms/LH_180.obj",
+   "mesh": "Meshes/Static_Platforms_LH_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LH_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LU_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LU_090.msh",
+   "definitionPath": "Data/Static/Platforms/LU_090.obj",
+   "mesh": "Meshes/Static_Platforms_LU_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LU_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LU_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/LU_180.msh",
+   "definitionPath": "Data/Static/Platforms/LU_180.obj",
+   "mesh": "Meshes/Static_Platforms_LU_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/LU_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RD_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RD_090.msh",
+   "definitionPath": "Data/Static/Platforms/RD_090.obj",
+   "mesh": "Meshes/Static_Platforms_RD_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RD_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RD_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RD_180.msh",
+   "definitionPath": "Data/Static/Platforms/RD_180.obj",
+   "mesh": "Meshes/Static_Platforms_RD_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RD_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RH_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RH_090.msh",
+   "definitionPath": "Data/Static/Platforms/RH_090.obj",
+   "mesh": "Meshes/Static_Platforms_RH_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RH_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RH_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RH_180.msh",
+   "definitionPath": "Data/Static/Platforms/RH_180.obj",
+   "mesh": "Meshes/Static_Platforms_RH_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RH_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RU_090",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RU_090.msh",
+   "definitionPath": "Data/Static/Platforms/RU_090.obj",
+   "mesh": "Meshes/Static_Platforms_RU_090.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RU_090.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "RU_180",
+   "kind": "platform",
+   "category": "Platforms",
+   "gamePath": "Data/Static/Platforms/RU_180.msh",
+   "definitionPath": "Data/Static/Platforms/RU_180.obj",
+   "mesh": "Meshes/Static_Platforms_RU_180.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 8,
+     "role": "variant_a",
+     "name": "slot08_variant_a",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 9,
+     "role": "variant_b",
+     "name": "slot09_variant_b",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 10,
+     "role": "extra",
+     "name": "slot10_extra",
+     "helper": false,
+     "material": "Platforms_Main01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 11,
+     "role": "collision_variant_a",
+     "name": "slot11_collision_variant_a",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 12,
+     "role": "collision_variant_b",
+     "name": "slot12_collision_variant_b",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 13,
+     "role": "collision_extra",
+     "name": "slot13_collision_extra",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Platforms/RU_180.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Platforms/Main%2.dds"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Platforms/Bump%2.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_RANDOM"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "11"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Platforms/Main_LM%02d.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "3.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,190,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM01.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM02.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM03.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM04.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM05.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM06.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM07.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM08.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM09.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM10.jpg",
+    "Assets/SkyTrack/Textures/Static/Platforms/Main_LM11.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Platforms/Bump01.jpg"
+  },
+  {
+   "name": "LFrame",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/LFrame.msh",
+   "definitionPath": "Data/Static/Structures/LFrame1.obj",
+   "mesh": "Meshes/Static_Structures_LFrame.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_LFrame",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Emissive_Structures_LFrame",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_LFrame",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 15,
+     "role": "shadow_volume",
+     "name": "slot15_shadow_volume",
+     "helper": true,
+     "material": "",
+     "collider": "skip",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/LFrame.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/LFrame.bmp"
+    },
+    {
+     "key": "Shader Texture",
+     "value": "Data/Static/Structures/LFrameBump.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Static/Structures/LFrameLMap1.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "030,000,000"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "2.0"
+      },
+      {
+       "key": "Color",
+       "value": "200,100,100"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Static/Structures/LFrame.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Static/Structures/LFrameLMap1.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Structures/LFrameBump.jpg"
+  },
+  {
+   "name": "Main01",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Main01.msh",
+   "definitionPath": "Data/Static/Structures/Main01.obj",
+   "mesh": "Meshes/Static_Structures_Main01.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STRUCTURE"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Main01.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Main.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": ""
+  },
+  {
+   "name": "Main02",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Main02.msh",
+   "definitionPath": "Data/Static/Structures/Main02.obj",
+   "mesh": "Meshes/Static_Structures_Main02.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STRUCTURE"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Main02.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Main.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": ""
+  },
+  {
+   "name": "Main03",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Main03.msh",
+   "definitionPath": "Data/Static/Structures/Main03.obj",
+   "mesh": "Meshes/Static_Structures_Main03.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STRUCTURE"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Main03.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Main.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": ""
+  },
+  {
+   "name": "Start",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Start.msh",
+   "definitionPath": "Data/Static/Structures/Start.obj",
+   "mesh": "Meshes/Static_Structures_Start.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Start",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Glow_Structures_Start_SI",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 6,
+     "role": "chrome",
+     "name": "slot06_chrome",
+     "helper": false,
+     "material": "Chrome_Structures_Start",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_PLATFORM"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Start.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Start.bmp"
+    },
+    {
+     "key": "Bump Texture",
+     "value": "Data/Static/Structures/StartBump.bmp"
+    },
+    {
+     "key": "Platform Decors Type",
+     "value": "DECORS_TYPE_NONE"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_CHROME",
+     "props": []
+    },
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,000,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Static/Structures/Start_SI.dds"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "255,000,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_FLAME",
+     "props": [
+      {
+       "key": "Size",
+       "value": "6.00"
+      },
+      {
+       "key": "Max Life Time",
+       "value": "1.25"
+      },
+      {
+       "key": "Gap Wait Time",
+       "value": "0.10"
+      },
+      {
+       "key": "Add Size Speed",
+       "value": "-0.1"
+      },
+      {
+       "key": "Move Vector",
+       "value": "000,-20,000"
+      },
+      {
+       "key": "Color",
+       "value": "255,155,000"
+      },
+      {
+       "key": "Color Start Brightness",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": "Assets/SkyTrack/Textures/Static/Structures/StartBump.jpg"
+  },
+  {
+   "name": "Up01",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Up01.msh",
+   "definitionPath": "Data/Static/Structures/Up01.obj",
+   "mesh": "Meshes/Static_Structures_Up01.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STRUCTURE"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Up01.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Main.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": ""
+  },
+  {
+   "name": "Up02",
+   "kind": "structure",
+   "category": "Structures",
+   "gamePath": "Data/Static/Structures/Up02.msh",
+   "definitionPath": "Data/Static/Structures/Up02.obj",
+   "mesh": "Meshes/Static_Structures_Up02.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 7,
+     "role": "light_strips",
+     "name": "slot07_light_strips",
+     "helper": false,
+     "material": "Emissive_Structures_Main",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "mesh",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STRUCTURE"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Static/Structures/Up02.msh"
+    },
+    {
+     "key": "Simple Texture",
+     "value": "Data/Static/Structures/Main.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTMAPS",
+     "props": [
+      {
+       "key": "Textures Num",
+       "value": "1"
+      },
+      {
+       "key": "Texture",
+       "value": "Data/Misc/LightMap.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "100,100,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_LIGHTS",
+     "props": [
+      {
+       "key": "Size",
+       "value": "5.0"
+      },
+      {
+       "key": "Color",
+       "value": "000,000,255"
+      }
+     ]
+    }
+   ],
+   "lightmaps": [
+    "Assets/SkyTrack/Textures/Misc/LightMap.jpg"
+   ],
+   "bump": ""
+  },
+  {
+   "name": "Vehicle01_Main",
+   "kind": "vehicle",
+   "category": "01",
+   "gamePath": "Data/Vehicles/01/Main.msh",
+   "definitionPath": "Data/Vehicles/01/Main.obj",
+   "mesh": "Meshes/Vehicles_01_Main.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "VehiclePaint_Vehicles_Decal01",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 1,
+     "role": "main_layer2",
+     "name": "slot01_main_layer2",
+     "helper": false,
+     "material": "Vehicles_Elements",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 4,
+     "role": "selfillum",
+     "name": "slot04_selfillum",
+     "helper": false,
+     "material": "Emissive_Vehicles_Elements",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 5,
+     "role": "glass",
+     "name": "slot05_glass",
+     "helper": false,
+     "material": "Glass",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 6,
+     "role": "chrome",
+     "name": "slot06_chrome",
+     "helper": false,
+     "material": "Chrome",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 16,
+     "role": "collision_hull",
+     "name": "slot16_collision_hull",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    },
+    {
+     "slot": 18,
+     "role": "collision_spheres",
+     "name": "slot18_collision_spheres",
+     "helper": true,
+     "material": "",
+     "collider": "convex",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_VEHICLE"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_VEHICLE"
+    },
+    {
+     "key": "Vehicle model",
+     "value": "Grizzly S5"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Vehicles/01/Main.msh"
+    },
+    {
+     "key": "Vehicle Texture",
+     "value": ""
+    },
+    {
+     "key": "Wheel object file name",
+     "value": "Data/Vehicles/01/Wheels.obj"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "0150"
+    },
+    {
+     "key": "Base Engine Force",
+     "value": "0400"
+    },
+    {
+     "key": "Base Max Speed",
+     "value": "0160"
+    },
+    {
+     "key": "Base Acceleration",
+     "value": "0.20"
+    },
+    {
+     "key": "Base Steering",
+     "value": "0.60"
+    },
+    {
+     "key": "Front Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Rear  Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Front Tyre Friction",
+     "value": "1.50"
+    },
+    {
+     "key": "Rear  Tyre Friction",
+     "value": "2.00"
+    },
+    {
+     "key": "Front Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Rear  Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Suspension Stiffness",
+     "value": "150.0"
+    },
+    {
+     "key": "Suspension Damping",
+     "value": "15.00"
+    },
+    {
+     "key": "Center of mass modifier",
+     "value": "0.80"
+    },
+    {
+     "key": "Engine Sound ID",
+     "value": "0"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_CHROME",
+     "props": []
+    },
+    {
+     "type": "GEFFECT_RGLASS",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Misc/Black.bmp"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SELFILLUM",
+     "props": [
+      {
+       "key": "Texture",
+       "value": "Data/Vehicles/Elements.bmp"
+      },
+      {
+       "key": "Color",
+       "value": "255,255,255"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_DIRECTLIGHTS",
+     "props": [
+      {
+       "key": "Front Color",
+       "value": "100,150,200"
+      },
+      {
+       "key": "Front Size",
+       "value": "0.75"
+      },
+      {
+       "key": "Back Color",
+       "value": "150,000,000"
+      },
+      {
+       "key": "Back Size",
+       "value": "0.50"
+      },
+      {
+       "key": "Addon Color",
+       "value": "150,050,000"
+      },
+      {
+       "key": "Addon Size",
+       "value": "0.50"
+      }
+     ]
+    },
+    {
+     "type": "GEFFECT_SHADOW",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": ""
+  },
+  {
+   "name": "Vehicle01_Wheels",
+   "kind": "wheels",
+   "category": "01",
+   "gamePath": "Data/Vehicles/01/Wheels.msh",
+   "definitionPath": "Data/Vehicles/01/Wheels.obj",
+   "mesh": "Meshes/Vehicles_01_Wheels.msh",
+   "slots": [
+    {
+     "slot": 0,
+     "role": "main",
+     "name": "slot00_main",
+     "helper": false,
+     "material": "Vehicles_Wheels",
+     "collider": "",
+     "activeInstances": 1
+    },
+    {
+     "slot": 6,
+     "role": "chrome",
+     "name": "slot06_chrome",
+     "helper": false,
+     "material": "Chrome_Vehicles_Wheels",
+     "collider": "",
+     "activeInstances": 1
+    }
+   ],
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_STATIC"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_STATIC"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Vehicles/01/Wheels.msh"
+    },
+    {
+     "key": "Texture File Name",
+     "value": "Data/Vehicles/Wheels.bmp"
+    }
+   ],
+   "effects": [
+    {
+     "type": "GEFFECT_CHROME",
+     "props": []
+    }
+   ],
+   "lightmaps": [],
+   "bump": ""
+  }
+ ],
+ "trackLibrary": {
+  "platformVariant1": [
+   "Platforms_Main01",
+   "Emissive_Platforms_Main01"
+  ],
+  "platformVariant2": [
+   "Platforms_Main02",
+   "Emissive_Platforms_Main02"
+  ],
+  "boxMaterials": [
+   "Boxes_Main01_01",
+   "Boxes_Main01_02",
+   "Boxes_Main01_03",
+   "Boxes_Main01_04",
+   "Boxes_Main01_05",
+   "Boxes_Main01_06"
+  ]
+ },
+ "racerNames": {
+  "menFirst": [
+   "Adrian",
+   "Alan",
+   "Albert",
+   "Alfred",
+   "Andrew",
+   "Anthony",
+   "Arnold",
+   "Arthur",
+   "Bernard",
+   "Brian",
+   "Christian",
+   "Claud",
+   "Connor",
+   "Dan",
+   "Dave",
+   "David",
+   "Dick",
+   "Donald",
+   "Douglas",
+   "Edward",
+   "Eugene",
+   "Eustace",
+   "Felix",
+   "Geffrey",
+   "George",
+   "Gerald",
+   "Gordon",
+   "Gregory",
+   "Harold",
+   "Harry",
+   "Henry",
+   "Herbert",
+   "Herman",
+   "Howard",
+   "Jack",
+   "Jeffrey",
+   "John",
+   "Leo",
+   "Lucas",
+   "Mark",
+   "Martin",
+   "Matthew",
+   "Michael",
+   "Morgan",
+   "Norman",
+   "Oliver",
+   "Peter",
+   "Philip",
+   "Ralph",
+   "Raymond",
+   "Richard",
+   "Robert",
+   "Roger",
+   "Roland",
+   "Rolf",
+   "Ronald",
+   "Rudolf",
+   "Samson",
+   "Simon",
+   "Steve",
+   "Teddy",
+   "Thomas",
+   "Victor",
+   "Vincent"
+  ],
+  "menLast": [
+   "Fess",
+   "Russel",
+   "Petroff",
+   "Zemekis",
+   "Ryaboff",
+   "Shultz",
+   "Kuznetsoff",
+   "Pronin",
+   "Jdanoff",
+   "King",
+   "Kim",
+   "Li",
+   "Bondarev"
+  ],
+  "womenFirst": [
+   "Agatha",
+   "Alice",
+   "Amy",
+   "Angelica",
+   "Barbara",
+   "Bridget",
+   "Carol",
+   "Catherine",
+   "Cecilia",
+   "Christina",
+   "Clara",
+   "Diana",
+   "Dinah",
+   "Dorothy",
+   "Edith",
+   "Eleanor",
+   "Elisabeth",
+   "Emma",
+   "Evelin",
+   "Gladys",
+   "Gloria",
+   "Grace",
+   "Helen",
+   "Henrietta",
+   "Hilda",
+   "Irene",
+   "Isabel",
+   "Jane",
+   "Janet",
+   "Jennifer",
+   "Jessica",
+   "Joan",
+   "Judith",
+   "Julia",
+   "Julian",
+   "Katrine",
+   "Laura",
+   "Leila",
+   "Lillian",
+   "Linda",
+   "Louisa",
+   "Lucy",
+   "Margaret",
+   "Marianne",
+   "Mirabel",
+   "Miranda",
+   "Nancy",
+   "Natalie",
+   "Olivia",
+   "Paula",
+   "Rachel",
+   "Sally",
+   "Sandy",
+   "Sarah",
+   "Silvia",
+   "Sophia",
+   "Stephanie",
+   "Susan",
+   "Veronica",
+   "Victoria",
+   "Viola",
+   "Virginia",
+   "Vivien",
+   "Lilia"
+  ],
+  "womenLast": [
+   "Paramonova",
+   "Roberts",
+   "Kassidy",
+   "Turman",
+   "Saltykova",
+   "Taylor",
+   "Davydova",
+   "Mitkova",
+   "Fess",
+   "Grosmann",
+   "Kim",
+   "Li",
+   "Bernar"
+  ]
+ },
+ "vehicleDefinitions": [
+  {
+   "path": "Data/Vehicles/01/Main.obj",
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_VEHICLE"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_VEHICLE"
+    },
+    {
+     "key": "Vehicle model",
+     "value": "Grizzly S5"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Vehicles/01/Main.msh"
+    },
+    {
+     "key": "Vehicle Texture",
+     "value": ""
+    },
+    {
+     "key": "Wheel object file name",
+     "value": "Data/Vehicles/01/Wheels.obj"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "0150"
+    },
+    {
+     "key": "Base Engine Force",
+     "value": "0400"
+    },
+    {
+     "key": "Base Max Speed",
+     "value": "0160"
+    },
+    {
+     "key": "Base Acceleration",
+     "value": "0.20"
+    },
+    {
+     "key": "Base Steering",
+     "value": "0.60"
+    },
+    {
+     "key": "Front Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Rear  Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Front Tyre Friction",
+     "value": "1.50"
+    },
+    {
+     "key": "Rear  Tyre Friction",
+     "value": "2.00"
+    },
+    {
+     "key": "Front Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Rear  Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Suspension Stiffness",
+     "value": "150.0"
+    },
+    {
+     "key": "Suspension Damping",
+     "value": "15.00"
+    },
+    {
+     "key": "Center of mass modifier",
+     "value": "0.80"
+    },
+    {
+     "key": "Engine Sound ID",
+     "value": "0"
+    }
+   ]
+  },
+  {
+   "path": "Data/Vehicles/01/Main_Max.obj",
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_VEHICLE"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_VEHICLE"
+    },
+    {
+     "key": "Vehicle model",
+     "value": "Grizzly S5"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Vehicles/01/Main.msh"
+    },
+    {
+     "key": "Vehicle Texture",
+     "value": ""
+    },
+    {
+     "key": "Wheel object file name",
+     "value": "Data/Vehicles/01/Wheels.obj"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "0150"
+    },
+    {
+     "key": "Base Engine Force",
+     "value": "0600"
+    },
+    {
+     "key": "Base Max Speed",
+     "value": "0220"
+    },
+    {
+     "key": "Base Acceleration",
+     "value": "1.00"
+    },
+    {
+     "key": "Base Steering",
+     "value": "1.20"
+    },
+    {
+     "key": "Front Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Rear  Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Front Tyre Friction",
+     "value": "3.00"
+    },
+    {
+     "key": "Rear  Tyre Friction",
+     "value": "4.00"
+    },
+    {
+     "key": "Front Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Rear  Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Suspension Stiffness",
+     "value": "150.0"
+    },
+    {
+     "key": "Suspension Damping",
+     "value": "15.00"
+    },
+    {
+     "key": "Center of mass modifier",
+     "value": "0.80"
+    },
+    {
+     "key": "Engine Sound ID",
+     "value": "0"
+    }
+   ]
+  },
+  {
+   "path": "Data/Vehicles/01/Main_Min.obj",
+   "properties": [
+    {
+     "key": "Object class",
+     "value": "GCLASS_VEHICLE"
+    },
+    {
+     "key": "Object type",
+     "value": "GTYPE_VEHICLE"
+    },
+    {
+     "key": "Vehicle model",
+     "value": "Grizzly S5"
+    },
+    {
+     "key": "Mesh File Name",
+     "value": "Data/Vehicles/01/Main.msh"
+    },
+    {
+     "key": "Vehicle Texture",
+     "value": ""
+    },
+    {
+     "key": "Wheel object file name",
+     "value": "Data/Vehicles/01/Wheels.obj"
+    },
+    {
+     "key": "Base Weight (kg)",
+     "value": "0150"
+    },
+    {
+     "key": "Base Engine Force",
+     "value": "0400"
+    },
+    {
+     "key": "Base Max Speed",
+     "value": "0160"
+    },
+    {
+     "key": "Base Acceleration",
+     "value": "0.20"
+    },
+    {
+     "key": "Base Steering",
+     "value": "0.60"
+    },
+    {
+     "key": "Front Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Rear  Tyre Driving",
+     "value": "1"
+    },
+    {
+     "key": "Front Tyre Friction",
+     "value": "1.50"
+    },
+    {
+     "key": "Rear  Tyre Friction",
+     "value": "2.00"
+    },
+    {
+     "key": "Front Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Rear  Tyre Rolling",
+     "value": "0.50"
+    },
+    {
+     "key": "Suspension Stiffness",
+     "value": "150.0"
+    },
+    {
+     "key": "Suspension Damping",
+     "value": "15.00"
+    },
+    {
+     "key": "Center of mass modifier",
+     "value": "0.80"
+    },
+    {
+     "key": "Engine Sound ID",
+     "value": "0"
+    }
+   ]
+  }
+ ]
+}
