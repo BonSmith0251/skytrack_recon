@@ -1,0 +1,23 @@
+# Smoke report
+
+- Blocking: none
+- Prefabs 33, renderers 265, mesh colliders 195
+- Missing meshes 0, materials 0, scripts 0, textures 0
+- Track: seed 12345, piece set 2, length 1, style 1: 24 pieces, centre line 4107 units, 308 scenery objects
+- Generator vs reference port: 30 courses, 0 mismatches
+- Drive test: PASS — 331.1 units in 12.0s, top 175 km/h, on deck or clear jump 95 %, min y 0.5
+- Final position: PASS — 1.Albert Bondarev, 2.Player, 3.Janet Roberts ~140s, 4.Sandy Turman ~147s, 5.Norman Petroff ~156s, 6.Oliver Pronin ~165s, 7.Sarah Roberts ~176s, 8.Viola Paramonova ~188s, 9.Sally Saltykova ~202s
+- AI race: PASS — 9 cars, 60s, course 4122 units, slowest 1992, median 2205, respawns 1, finished 0
+  -   Janet Roberts: off track on AH_020 piece-local (29.5, -43.1, 171.3) up·n 0.99
+  - respawns: 1 x (01_AH_020) off track
+  -  1. Albert Bondarev          2277 units  respawns 0  top 184 km/h
+  -  2. Viola Paramonova         2236 units  respawns 0  top 178 km/h
+  -  3. Sally Saltykova          2235 units  respawns 0  top 185 km/h
+  -  4. Norman Petroff           2223 units  respawns 0  top 181 km/h
+  -  5. Sarah Roberts            2205 units  respawns 0  top 179 km/h
+  -  6. Oliver Pronin            2193 units  respawns 0  top 184 km/h
+  -  7. Player                   2140 units  respawns 0  top 200 km/h
+  -  8. Janet Roberts            2018 units  respawns 1  top 185 km/h
+  -  9. Sandy Turman             1992 units  respawns 0  top 169 km/h
+- Player build: OK C:\SkyTrackLab\verify\SkyTrackUnity\Build\SkyTrackRebuilt.exe (196.6 MB, 22s)
+- Console errors: 0
